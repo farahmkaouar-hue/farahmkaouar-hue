@@ -6,6 +6,7 @@ Je travaille sur la modélisation du risque de crédit, l'actuariat et l'IA appl
 ### Projets
 - **[IFRS 9 et stress tests](https://github.com/farahmkaouar-hue/ifrs9-stress-testing)** : pertes de crédit attendues et 7 scénarios macroéconomiques sur un portefeuille Lending Club.
 - **[Backtesting des modèles de notation interne](https://github.com/farahmkaouar-hue/backtesting-notation-interne)** : application réalisée en stage à l'UBCI (discrimination, calibration, recalibrage).
+- **[Score de crédit](https://github.com/farahmkaouar-hue/scoring-credit)** : régression logistique, sélection par Information Value, AUC de 0,82 et échelle de notation en 4 classes.
 - **[Prix juste d'un logement Airbnb](https://github.com/farahmkaouar-hue/airbnb-prix-equitable)** : 485 128 annonces dans 15 villes, R² de 0,815.
 - **[Tarification automobile et prédiction des sinistres](https://github.com/farahmkaouar-hue/tarification-sinistres-auto)** : sinistres graves par la méthode POT et prime pure.
 - **[Contrôle qualité des matières premières](https://github.com/farahmkaouar-hue/controle-qualite-matieres-premieres)** : application réalisée en stage chez SIDILEC (ISO 2859-1).
