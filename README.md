@@ -1,7 +1,7 @@
 # Farah Mkaouar
 
 Élève ingénieure en 3e année à l'ESSAI (statistique et analyse de l'information), à Tunis.
-Je travaille sur la modélisation du risque de crédit, l'actuariat et l'IA appliquée à la banque et à l'assurance.
+Je travaille sur la modélisation du risque , l'actuariat et l'IA appliquée à la banque et à l'assurance.
 
 ### Projets
 - **[IFRS 9 et stress tests](https://github.com/farahmkaouar-hue/ifrs9-stress-testing)** : pertes de crédit attendues et 7 scénarios macroéconomiques sur un portefeuille Lending Club.
